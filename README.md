@@ -1,4 +1,16 @@
-# Youtube to Anchor.fm - An automation tool to publish your podcast
+# Youtube to Anchor.fm - [The Haleakalan Podcast](http://thehaleakalan.tech/)
+
+Full Credit to Github Action to the creators of the repository (https://github.com/Schrodinger-Hat/youtube-to-anchorfm).
+
+Main Website: http://thehaleakalan.tech/
+
+Spotify: https://open.spotify.com/show/1qhyTJiMHELF96Kc32syPA
+
+Youtube Channel: https://www.youtube.com/channel/UC0RqUV92ON_4kUMqXMLEGyw/featured
+
+Subscribe!: https://www.youtube.com/channel/UC0RqUV92ON_4kUMqXMLEGyw?sub_confirmation=1
+
+# Youtube to Anchor.fm Github Action Details
 
 ![Cover image](https://raw.githubusercontent.com/Schrodinger-Hat/youtube-to-anchorfm/master/assets/img/cover.png "Cover image")
 
